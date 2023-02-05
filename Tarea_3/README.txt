@@ -14,7 +14,6 @@ Instrucciones de Uso:
 
 2) Para la pregunta 1 realizamos una version de prueba que utiliza todas la funciones creadas, para su uso, solo bastara copiar la prueba al final del archivo de la pregunta
 
-
 //Prueba_1
 int main(){
     CacheDiccionario obj1;
