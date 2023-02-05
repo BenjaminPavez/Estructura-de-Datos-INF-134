@@ -1,13 +1,15 @@
 Nombre: Benjamin Alejandro Pavez Ortiz
 
-Rol: 202173628-K
+Rol USM: 202173628-K
 
-SO: Windows 10
+IDE: Visual Studio Code
 
-Compilador: g++ GNU (Windows Subsystem Linux (WSL))
+SO: Ubuntu 22.04.1 LTS
 
-Version g++: 9.4.0
+Compilador: g++ (Ubuntu 11.3.0-1ubuntu1~22.04) 11.3.0 (WSL)
 
-Instrucciones de Uso
+Instrucciones de Uso:
 
-1)
+1) El programa funciona correctamente
+
+2) Se utilizo Valgrind para la fugas de memoria, en este caso no posee ninguna
