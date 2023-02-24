@@ -144,6 +144,7 @@ void Revision(string nombreArchivo, Ticket user){
 
     }
     valor = 0;
+    archivo.close();
 
 }
 
